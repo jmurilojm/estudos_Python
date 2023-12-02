@@ -1,2 +1,2 @@
 # estudos_Python
-Alguns estudos com a linguagem Python
+Estudos com a linguagem Python
