@@ -1,0 +1,20 @@
+PLANEJAMENTO DO SITE
+
+4 paginas.
+Cabecalho, menu, corpo e rodapé.
+
+1-Pag. principal(Home) index.html
+Texto de boas vindas.
+figura
+
+2-Pag. de projetos(Projetos) projeto.html
+texto
+figura
+video
+
+3-Pag. material de apoio(Material) material.html
+download de arquivo.pdf
+
+4-Pag. de contato(Contato) contato.html
+e-mail de contato
+redes sociais
